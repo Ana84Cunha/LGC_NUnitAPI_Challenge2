@@ -26,4 +26,7 @@ namespace APITestingChallenge
 
        
         // Check if the response status code is either 200 or 204
-        Assert.That((int)response.StatusCode, Is.OneOf(200, 204))
+        Assert.That((int)response.StatusCode, Is.OneOf(200, 204));
+        }
+    }
+}

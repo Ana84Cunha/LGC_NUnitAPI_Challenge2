@@ -1,7 +1,7 @@
 # API Testing Challenge
 
 ## Overview
-This project contains test cases for validating a RESTful API using NUnit and RestSharp. The API used for testing is JSONPlaceholder, which provides a fake online REST API for testing and prototyping.
+This project contains test cases for validating a RESTful API using NUnit and RestSharp. The API used for testing is JSONPlaceholder, which provides a fake online REST API for testing.
 
 ## Objective
 
@@ -55,6 +55,6 @@ Due to some encountered errors, the test cases have not been executed yet, build
 To get started with this project, you will need to:
 1. Clone this repository to your local machine: https://github.com/Ana84Cunha/LGC_NUnitAPI_Challenge2.git
 2. Open the project in your IDE (e.g., Visual Studio or VS Code).
-3. Ensure the necessary dependencies are installed(e.g.
+3. Ensure the necessary dependencies are installed
 4. Attempt to run the tests.
 

@@ -11,7 +11,7 @@ namespace APITestingChallenge
         public void Setup()
         {
             // _client is a private field of type RestClient, which will be used to send HTTP requests in each test.
-            // In this Setup method, we are initializing the _client with the base URL of the API we are testing.
+            // In this Setup method, i initialize the _client with the base URL of the API we are testing.
             // This is the REST API base URL (https://jsonplaceholder.typicode.com), and _client will be responsible for sending HTTP requests to this API.
             _client = new RestClient("https://jsonplaceholder.typicode.com");
             
