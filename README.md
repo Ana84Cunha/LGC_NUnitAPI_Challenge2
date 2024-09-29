@@ -1,20 +1,28 @@
 # API Testing Challenge
 
 ## Overview
-This project contains test cases for validating a RESTful API using NUnit and RestSharp. The API used for testing is [JSONPlaceholder](https://jsonplaceholder.typicode.com), which provides a fake online REST API for testing and prototyping.
+This project contains test cases for validating a RESTful API using NUnit and RestSharp. The API used for testing is JSONPlaceholder, which provides a fake online REST API for testing and prototyping.
 
-## 1. Set Up Environment
-### Install .NET SDK
-- If you haven't installed the .NET SDK, you can check if it's installed by running the following command in your terminal:
-  ```bash
-  dotnet --version
+## Objective
+
+The primary goal of this project is to automate the testing of the JSONPlaceholder API by validating the following functionalities:
+
+- **GET Request**: Ensure that the API returns the correct post data.
+- **POST Request**: Verify the successful creation of a new post.
+- **PUT Request**: Validate the updating of an existing post.
+- **DELETE Request**: Confirm the successful deletion of a post.
+
+## Set Up Environment
+1. Install .NET SDK
+To check if the .NET SDK is installed, run the following command in your terminal:dotnet --version
+
 ### Project Structure:
 ApiTests/
-├── ApiTests.csproj
-├── GetPostTests.cs
-├── CreatePostTests.cs
-├── UpdatePostTests.cs
-└── DeletePostTests.cs
+ApiTests.csproj
+- GetPostTests.cs
+- CreatePostTests.cs
+- UpdatePostTests.cs
+- DeletePostTests.cs
 
 The following API test cases have been implemented:
 
