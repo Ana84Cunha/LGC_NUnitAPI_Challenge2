@@ -1,0 +1,5 @@
+C:\Users\ana.cunha\OneDrive - HEALY HUDSON\Desktop\Playwright Course\LGC_NUnitAPI_Exercise\APITestingChallenge\obj\Debug\net8.0\APITestingChallenge.csproj.AssemblyReference.cache
+C:\Users\ana.cunha\OneDrive - HEALY HUDSON\Desktop\Playwright Course\LGC_NUnitAPI_Exercise\APITestingChallenge\obj\Debug\net8.0\APITestingChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ana.cunha\OneDrive - HEALY HUDSON\Desktop\Playwright Course\LGC_NUnitAPI_Exercise\APITestingChallenge\obj\Debug\net8.0\APITestingChallenge.AssemblyInfoInputs.cache
+C:\Users\ana.cunha\OneDrive - HEALY HUDSON\Desktop\Playwright Course\LGC_NUnitAPI_Exercise\APITestingChallenge\obj\Debug\net8.0\APITestingChallenge.AssemblyInfo.cs
+C:\Users\ana.cunha\OneDrive - HEALY HUDSON\Desktop\Playwright Course\LGC_NUnitAPI_Exercise\APITestingChallenge\obj\Debug\net8.0\APITestingChallenge.csproj.CoreCompileInputs.cache
